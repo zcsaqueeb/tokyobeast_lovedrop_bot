@@ -1,10 +1,8 @@
-Here's the updated README without the "Need Help? Contact & Support" section:
-
----
-
 # 🚀 **Ultimate Bot Setup Guide**
 
 Welcome! This guide will walk you through the **installation and configuration** process to get your bot up and running. It’s crafted to ensure even first-time users can set things up without breaking a sweat.
+
+👉 Telegram Bot Link: [@tokyobeast_lovedrop_bot](https://t.me/tokyobeast_lovedrop_bot/lovedrop?startapp=687WN6G3LOZR)
 
 ---
 
@@ -18,6 +16,7 @@ Welcome! This guide will walk you through the **installation and configuration**
    - [`wallets.txt`](#3-walletstxt)
    - [`proxies.txt`](#4-proxiestxt)
 4. [Running the Bot](#running-the-bot)
+5. [Support with Referral Link](#support-with-referral-link)
 
 ---
 
@@ -137,6 +136,16 @@ Now the fun part! Follow these steps:
    ```bash
    node coffin
    ```
+
+---
+
+## **5. Support with Referral Link**
+
+You can support by using this referral link:
+
+👉 [Referral Link](https://t.me/tokyobeast_lovedrop_bot/lovedrop?startapp=687WN6G3LOZR)
+
+Thank you for your support!
 
 ---
 
