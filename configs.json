@@ -3,11 +3,11 @@
   "rotateProxy": false,
   "skipInvalidProxy": false,
   "proxyRotationInterval": 2,
-  "delayEachAccount": [1, 10],
-  "timeToRestartAllAccounts": 25,
+  "delayEachAccount": [1, 5],
+  "timeToRestartAllAccounts": 10,
   "howManyAccountsRunInOneTime": 10,
   "doTasks": true,
   "isUpgrade": true,
-  "referralCode": "Z1I6Z87IRBA8",
-  "amountOfUpgrades": 10000
+  "referralCode": "687WN6G3LOZR",
+  "amountOfUpgrades": 10
 }
